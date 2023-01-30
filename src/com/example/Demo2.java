@@ -8,13 +8,8 @@ public class Demo2
 	
     System.out.println("hi Sahil");
   
-  
+    System.out.println("GM");
   
   }
-
-
-
-
-
 
 }
